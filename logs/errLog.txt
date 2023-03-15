@@ -1,0 +1,30 @@
+20230313	15:47:52	7a8170c8-cf94-4e78-853b-435aa91f396a	Error: Not allowed by CORS
+20230313	15:48:00	d659dae0-0df2-4204-b885-b56c7d1864b6	Error: Not allowed by CORS
+20230313	15:48:01	7450c8ab-1e7c-4e86-821b-3fb8a1290900	Error: Not allowed by CORS
+20230313	15:48:18	0588e1ca-267c-476b-80dd-8ccb22d438ec	Error: Not allowed by CORS
+20230313	15:48:20	91a7da13-5619-466a-baa9-73353f2682d4	Error: Not allowed by CORS
+20230313	15:48:54	2588bd59-d2d5-4146-8f50-439c5435648d	Error: Not allowed by CORS
+20230313	15:52:16	ea60c9cf-9361-488b-883e-fea34173b29e	Error: Not allowed by CORS
+20230313	15:52:32	7e7b42ca-46be-42a8-bfe3-97b311142b61	Error: Not allowed by CORS
+20230313	15:52:33	ce1a1a7c-ef43-4b3d-aad9-02fbe5e06df1	Error: Not allowed by CORS
+20230313	15:57:53	2b0bb885-4493-4433-8abe-6f0f2aba0000	ReferenceError: allowlist is not defined
+20230313	15:57:55	dd4363f8-0b09-4adc-ba16-4f65c0420803	ReferenceError: allowlist is not defined
+20230313	15:58:28	6fe3507b-b1d7-4494-a75c-9d97b1231bba	Error: Not allowed by CORS
+20230313	15:58:29	f6768a93-b56e-4668-afd4-217a517654e8	Error: Not allowed by CORS
+20230313	15:58:35	b7213bad-2e29-4f62-8861-a0fcd15aaaad	Error: Not allowed by CORS
+20230313	15:58:40	7f51a304-477d-4333-82f9-d8a5d15e9160	Error: Not allowed by CORS
+20230313	15:59:03	7d113924-7c30-430a-a722-aa0a47968627	Error: Not allowed by CORS
+20230313	16:00:00	bd4637a3-fc35-473f-a78a-42c3c381a197	Error: Not allowed by CORS
+20230313	16:00:01	81bc20e8-88a1-4d00-9e29-b02b1d520763	Error: Not allowed by CORS
+20230313	16:00:04	067a253f-749e-49c6-982a-6bd0715d14e5	Error: Not allowed by CORS
+20230313	16:00:55	57e80699-d8e6-4efd-a5a6-983352597e81	Error: Not allowed by CORS
+20230313	16:01:13	c12f9190-660f-416e-8fb6-16d9489cd6b0	Error: Not allowed by CORS
+20230313	16:01:13	29354132-6af3-47f7-9d74-73eff2787eed	Error: Not allowed by CORS
+20230313	16:03:40	c77e1236-b979-48fd-b207-ffcb639f53b2	Error: Not allowed by CORS
+20230314	16:38:24	7da2883c-c7dc-4947-81b2-7ded2ff606f2	Error: Cannot set headers after they are sent to the client
+20230315	15:14:31	a2bd9ef6-b43a-4ffb-932d-4b727d65ad9d	ReferenceError: procces is not defined
+20230315	15:21:25	7bbb17ca-d21a-46cd-834e-63f5a719569e	TypeError: Cannot read properties of undefined (reading 'split')
+20230315	15:36:27	5daea660-d549-43d9-861f-aeeba6fa2537	TypeError: Cannot read properties of undefined (reading 'split')
+20230315	15:36:46	3a234d7f-a370-4f89-be53-c34bca5a889a	TypeError: Cannot read properties of undefined (reading 'split')
+20230315	15:38:21	2a51c59b-050c-423d-aea6-3d063e88d5e3	TypeError: Cannot read properties of undefined (reading 'split')
+20230315	16:05:33	9afa876b-1e98-4d5c-83d9-01fb26f62f1a	TypeError: res.statusStatus is not a function
