@@ -379,3 +379,8 @@
 20230317	14:50:44	71a12cdc-a3b5-48c1-a42e-9beaf68ef131	DELETE	undefined	/employees
 20230317	14:50:57	2fe5d36d-630e-4a24-97ac-f0d29575c403	GET	undefined	/employees
 20230317	14:51:02	4c633d29-5d5b-41b8-b64e-ebf5a15dc058	GET	undefined	/employees
+20230317	15:25:20	1e50fd21-9c0a-48e7-91ac-d697ada5bb91	POST	http://localhost:3000	/auth
+20230317	15:26:31	f0b8a141-51af-42fa-836a-e8a26803ca03	POST	http://localhost:3000	/auth
+20230317	15:28:15	0b048db5-4043-4736-955b-00c22908160c	POST	http://localhost:3000	/auth
+20230317	16:47:16	ca68a4a6-b44d-4297-ba6e-07a0294abafd	POST	http://localhost:3000	/register
+20230317	16:53:56	3d9c6c2a-cba2-4f5a-ad0a-e6d69cc475c9	POST	http://localhost:3000	/register
